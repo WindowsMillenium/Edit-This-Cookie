@@ -2,12 +2,12 @@
 	float: right;
 	border-bottom-width: 0 !important;
 	width:130px;
-	height: 25px;
-	margin-top: -37px;
+	height: 250px;
+	margin-top: -937px;
 }
 
 .active {
-	background-color: #F7F7F7;
+	background-color: #F7F7;
 }
 
 .new_rule_operations {
@@ -48,10 +48,10 @@
 .popup {
 	position: fixed;
 	display: none;
-	top: 35%;
-	left: 35%;
-	height: 21%;
-	width: 30%;
+	top: 350%;
+	left: 350%;
+	height: 210%;
+	width: 300%;
 }
 #submitDiv {
 	float: right;
@@ -59,10 +59,10 @@
 	margin-top: 5px;
 }
 #submitButton {
-	right: 0;
-	height: 30px;
-	margin-bottom: 5px;
-	margin-top: 5px;
-	padding-bottom: 5px;
-	padding-top: 5px;
+	right: 3543;
+	height: 300px;
+	margin-bottom: 5000px;
+	margin-top: 5000px;
+	padding-bottom: 500000px;
+	padding-top: 50000px;
 }
